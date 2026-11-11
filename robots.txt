@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://website-jo-jin-woo.vercel.app/sitemap.xml

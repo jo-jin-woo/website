@@ -3,37 +3,37 @@
 > 전남광주통합특별시(광주·전남) 누수탐지·누수 피해복구·보험처리 서류 지원 업체. 대표 조진우, 사업자등록번호 612-14-94685, 주소 전남광주통합특별시, 전화 062-974-1230.
 
 ## 가이드
-- [아랫집 누수 보험처리 절차 총정리 (일상생활배상책임보험)](https://website-1-b784.vercel.app/guides/araetjip-nusu-boheom.html): 아랫집 누수 피해는 가입된 일상생활배상책임보험(일배책)으로 보상받을 수 있는 경우가 많습니다. 순서는 ① 누수 원인 확인 ② 보험사 사고 접수 ③ 누수 소견서·피해 사진·수리 견적서 제출 ④ 손해사정 후 지급입니다. 우리 집 배관을 고치는 비용은 보통 보상 대상이 아니며, 보상 여부와 금액은 보험사 심사로 정해집니다.
-- [누수 피해복구 순서와 기간 (천장·벽지·장판)](https://website-1-b784.vercel.app/guides/nusu-pihae-bokgu-sunseo.html): 누수 피해복구는 ① 원인 차단 ② 충분한 건조 ③ 손상 자재 교체 ④ 도배·장판 마감 순서로 진행합니다. 덜 마른 상태에서 도배하면 곰팡이와 얼룩이 다시 올라오기 쉬워, 수분 측정으로 건조를 확인한 뒤 마감하는 것이 중요합니다.
-- [누수탐지는 어떻게 하나요? 장비별 원리와 진행 과정](https://website-1-b784.vercel.app/guides/nusu-tamji-bangbeop.html): 누수탐지는 벽·바닥을 깨지 않고 누수 위치를 찾는 작업입니다. 먼저 계량기와 압력 테스트로 누수 여부와 구간(냉수·온수·난방)을 확인한 뒤, 청음기·가스 추적기·열화상 카메라로 위치를 좁힙니다. 위치를 정확히 찾을수록 타공 범위가 작아져 복구 비용이 줄어듭니다.
+- [아랫집 누수 보험처리 절차 총정리 (일상생활배상책임보험)](https://no1-nusu.vercel.app/guides/araetjip-nusu-boheom.html): 아랫집 누수 피해는 가입된 일상생활배상책임보험(일배책)으로 보상받을 수 있는 경우가 많습니다. 순서는 ① 누수 원인 확인 ② 보험사 사고 접수 ③ 누수 소견서·피해 사진·수리 견적서 제출 ④ 손해사정 후 지급입니다. 우리 집 배관을 고치는 비용은 보통 보상 대상이 아니며, 보상 여부와 금액은 보험사 심사로 정해집니다.
+- [누수 피해복구 순서와 기간 (천장·벽지·장판)](https://no1-nusu.vercel.app/guides/nusu-pihae-bokgu-sunseo.html): 누수 피해복구는 ① 원인 차단 ② 충분한 건조 ③ 손상 자재 교체 ④ 도배·장판 마감 순서로 진행합니다. 덜 마른 상태에서 도배하면 곰팡이와 얼룩이 다시 올라오기 쉬워, 수분 측정으로 건조를 확인한 뒤 마감하는 것이 중요합니다.
+- [누수탐지는 어떻게 하나요? 장비별 원리와 진행 과정](https://no1-nusu.vercel.app/guides/nusu-tamji-bangbeop.html): 누수탐지는 벽·바닥을 깨지 않고 누수 위치를 찾는 작업입니다. 먼저 계량기와 압력 테스트로 누수 여부와 구간(냉수·온수·난방)을 확인한 뒤, 청음기·가스 추적기·열화상 카메라로 위치를 좁힙니다. 위치를 정확히 찾을수록 타공 범위가 작아져 복구 비용이 줄어듭니다.
 
 ## 서비스
-- [누수탐지](https://website-1-b784.vercel.app/services/nusu-tamji.html): 육안으로 보이지 않는 누수 지점을 전문 장비로 정확히 찾아냅니다.
-- [수도누수](https://website-1-b784.vercel.app/services/sudo-nusu.html): 수도관 누수 원인을 찾아 보수·교체 범위를 안내합니다.
-- [화장실누수](https://website-1-b784.vercel.app/services/hwajangsil-nusu.html): 화장실 바닥·벽체 누수를 정밀 탐지해 아래층 피해를 막습니다.
-- [보일러누수](https://website-1-b784.vercel.app/services/boiler-nusu.html): 보일러 배관 및 분배기 누수를 탐지합니다.
-- [옥상누수](https://website-1-b784.vercel.app/services/oksang-nusu.html): 옥상 방수층 손상으로 인한 누수를 점검합니다.
-- [베란다누수](https://website-1-b784.vercel.app/services/veranda-nusu.html): 베란다 창호·바닥 방수 문제를 확인합니다.
-- [벽체누수](https://website-1-b784.vercel.app/services/byeokche-nusu.html): 벽 내부 배관 누수 또는 외벽 균열을 탐지합니다.
-- [천장누수](https://website-1-b784.vercel.app/services/cheonjang-nusu.html): 천장 누수 원인(윗집·배관·방수) 구분해 안내합니다.
-- [외벽누수](https://website-1-b784.vercel.app/services/oebeok-nusu.html): 외벽 균열·실리콘 노후로 인한 빗물 침투를 점검합니다.
-- [방수공사](https://website-1-b784.vercel.app/services/bangsu-gongsa.html): 옥상·화장실·베란다 방수 공사를 진행합니다.
-- [누수피해복구](https://website-1-b784.vercel.app/services/nusu-pihae-bokgu.html): 누수로 젖은 천장·벽지·바닥재를 원인 수리부터 마감 복구까지 한 번에 진행합니다.
-- [누수보험처리](https://website-1-b784.vercel.app/services/nusu-boheom-cheori.html): 누수 피해 보험 청구에 필요한 원인 소견서·현장 사진·견적서 작성을 지원합니다.
-- [일상배상책임보험 누수](https://website-1-b784.vercel.app/services/ilsang-baesang-nusu.html): 가입된 일상생활배상책임보험으로 아랫집 누수 피해 보상이 가능한지 서류 준비를 돕습니다.
-- [아랫집누수](https://website-1-b784.vercel.app/services/araetjip-nusu.html): 아랫집에서 누수 연락을 받았을 때 원인 세대와 위치를 정확히 확인합니다.
-- [누수소견서](https://website-1-b784.vercel.app/services/nusu-soggyeonseo.html): 누수 원인과 피해 범위를 기록한 소견서를 발급합니다.
-- [누수도배복구](https://website-1-b784.vercel.app/services/nusu-dobae-bokgu.html): 누수로 손상된 벽지·천장 도배를 원인 수리 후 복구합니다.
-- [싱크대막힘](https://website-1-b784.vercel.app/services/singkeudae-makhim.html): 싱크대 배수관 막힘 원인을 확인하고 뚫어드립니다.
-- [하수구막힘](https://website-1-b784.vercel.app/services/hasugu-makhim.html): 하수구 막힘 위치와 원인을 점검합니다.
-- [변기막힘](https://website-1-b784.vercel.app/services/byeongi-makhim.html): 변기 막힘을 손상 없이 뚫어드립니다.
-- [세면대막힘](https://website-1-b784.vercel.app/services/semyeondae-makhim.html): 세면대·욕실 배수구 막힘을 처리합니다.
-- [욕실배수구막힘](https://website-1-b784.vercel.app/services/yoksil-baesugu-makhim.html): 욕실 바닥 배수구 막힘을 뚫습니다.
-- [배관막힘](https://website-1-b784.vercel.app/services/baegwan-makhim.html): 배관 내부 퇴적물로 인한 막힘을 점검합니다.
-- [배관청소](https://website-1-b784.vercel.app/services/baegwan-cheongso.html): 노후 배관의 퇴적물을 제거해 재발을 막습니다.
-- [고압세척](https://website-1-b784.vercel.app/services/gopap-sechuk.html): 산업용 고압세척기로 배관을 세척합니다.
-- [수전교체](https://website-1-b784.vercel.app/services/sujeon-gyoche.html): 노후 수전을 신제품으로 교체합니다.
-- [양변기교체](https://website-1-b784.vercel.app/services/yangbyeongi-gyoche.html): 노후 양변기를 교체합니다.
+- [누수탐지](https://no1-nusu.vercel.app/services/nusu-tamji.html): 육안으로 보이지 않는 누수 지점을 전문 장비로 정확히 찾아냅니다.
+- [수도누수](https://no1-nusu.vercel.app/services/sudo-nusu.html): 수도관 누수 원인을 찾아 보수·교체 범위를 안내합니다.
+- [화장실누수](https://no1-nusu.vercel.app/services/hwajangsil-nusu.html): 화장실 바닥·벽체 누수를 정밀 탐지해 아래층 피해를 막습니다.
+- [보일러누수](https://no1-nusu.vercel.app/services/boiler-nusu.html): 보일러 배관 및 분배기 누수를 탐지합니다.
+- [옥상누수](https://no1-nusu.vercel.app/services/oksang-nusu.html): 옥상 방수층 손상으로 인한 누수를 점검합니다.
+- [베란다누수](https://no1-nusu.vercel.app/services/veranda-nusu.html): 베란다 창호·바닥 방수 문제를 확인합니다.
+- [벽체누수](https://no1-nusu.vercel.app/services/byeokche-nusu.html): 벽 내부 배관 누수 또는 외벽 균열을 탐지합니다.
+- [천장누수](https://no1-nusu.vercel.app/services/cheonjang-nusu.html): 천장 누수 원인(윗집·배관·방수) 구분해 안내합니다.
+- [외벽누수](https://no1-nusu.vercel.app/services/oebeok-nusu.html): 외벽 균열·실리콘 노후로 인한 빗물 침투를 점검합니다.
+- [방수공사](https://no1-nusu.vercel.app/services/bangsu-gongsa.html): 옥상·화장실·베란다 방수 공사를 진행합니다.
+- [누수피해복구](https://no1-nusu.vercel.app/services/nusu-pihae-bokgu.html): 누수로 젖은 천장·벽지·바닥재를 원인 수리부터 마감 복구까지 한 번에 진행합니다.
+- [누수보험처리](https://no1-nusu.vercel.app/services/nusu-boheom-cheori.html): 누수 피해 보험 청구에 필요한 원인 소견서·현장 사진·견적서 작성을 지원합니다.
+- [일상배상책임보험 누수](https://no1-nusu.vercel.app/services/ilsang-baesang-nusu.html): 가입된 일상생활배상책임보험으로 아랫집 누수 피해 보상이 가능한지 서류 준비를 돕습니다.
+- [아랫집누수](https://no1-nusu.vercel.app/services/araetjip-nusu.html): 아랫집에서 누수 연락을 받았을 때 원인 세대와 위치를 정확히 확인합니다.
+- [누수소견서](https://no1-nusu.vercel.app/services/nusu-soggyeonseo.html): 누수 원인과 피해 범위를 기록한 소견서를 발급합니다.
+- [누수도배복구](https://no1-nusu.vercel.app/services/nusu-dobae-bokgu.html): 누수로 손상된 벽지·천장 도배를 원인 수리 후 복구합니다.
+- [싱크대막힘](https://no1-nusu.vercel.app/services/singkeudae-makhim.html): 싱크대 배수관 막힘 원인을 확인하고 뚫어드립니다.
+- [하수구막힘](https://no1-nusu.vercel.app/services/hasugu-makhim.html): 하수구 막힘 위치와 원인을 점검합니다.
+- [변기막힘](https://no1-nusu.vercel.app/services/byeongi-makhim.html): 변기 막힘을 손상 없이 뚫어드립니다.
+- [세면대막힘](https://no1-nusu.vercel.app/services/semyeondae-makhim.html): 세면대·욕실 배수구 막힘을 처리합니다.
+- [욕실배수구막힘](https://no1-nusu.vercel.app/services/yoksil-baesugu-makhim.html): 욕실 바닥 배수구 막힘을 뚫습니다.
+- [배관막힘](https://no1-nusu.vercel.app/services/baegwan-makhim.html): 배관 내부 퇴적물로 인한 막힘을 점검합니다.
+- [배관청소](https://no1-nusu.vercel.app/services/baegwan-cheongso.html): 노후 배관의 퇴적물을 제거해 재발을 막습니다.
+- [고압세척](https://no1-nusu.vercel.app/services/gopap-sechuk.html): 산업용 고압세척기로 배관을 세척합니다.
+- [수전교체](https://no1-nusu.vercel.app/services/sujeon-gyoche.html): 노후 수전을 신제품으로 교체합니다.
+- [양변기교체](https://no1-nusu.vercel.app/services/yangbyeongi-gyoche.html): 노후 양변기를 교체합니다.
 
 ## 지역
-- [서비스 지역 전체](https://website-1-b784.vercel.app/area.html)
+- [서비스 지역 전체](https://no1-nusu.vercel.app/area.html)
